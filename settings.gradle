@@ -1,0 +1,2 @@
+rootProject.name='MediaSessionExperiement'
+include ':app'
